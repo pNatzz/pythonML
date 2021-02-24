@@ -16,3 +16,8 @@ myfriend = Myfriend() # create object to class (Object = myfriend, Class = Myfri
 print(myfriend.name)
 myfriend.changeName() # call the method
 print(myfriend.name)
+
+
+
+
+
